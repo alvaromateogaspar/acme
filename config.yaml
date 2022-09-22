@@ -1,12 +1,12 @@
-baseURL: https://example.org/
+baseURL: 
 languageCode: es-es 
-title: Acme Corporation 
+title: ACME Servicios técnicos
 theme: Eclectic 
 author: 
-  facebook: "https://facebook.com/example" 
-  twitter: "https://twitter.com/example" 
-  email: "contact@example.org" 
-  name: "Acme Corporation" 
+  facebook: "https://es-es.facebook.com/cpilosenlaces/" 
+  twitter: "https://twitter.com/cpilosenlaces" 
+  email: "centro@cpilosenlaces.com" 
+  name: "ACME Servicios Técnicos" 
   location: Zaragoza
   phone: (999) 999-9999 
   hours: "**Lunes-Viernes** 9:00AM - 6:00PM" 
@@ -25,9 +25,13 @@ menu:
       name: Curriculum
       url: /curriculum
       weight: 200 
-    - identifier: Viajes
+    - identifier: viajes
       name: Viajes
       url: /viajes
+      weight: 5 
+    - identifier: blog
+      name: Blog
+      url: /blog
       weight: 5 
 params: 
   color: "#4f46e5"

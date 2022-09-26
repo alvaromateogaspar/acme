@@ -1,7 +1,7 @@
 baseURL: 
 languageCode: es-es 
 title: ACME Servicios técnicos
-theme: Eclectic 
+theme: Eclectic
 author: 
   facebook: "https://es-es.facebook.com/cpilosenlaces/" 
   twitter: "https://twitter.com/cpilosenlaces" 
@@ -13,25 +13,25 @@ author:
 
 menu:
   main: 
-    - identifier: about 
-      name: Acerca de 
-      url: /about 
+    - identifier: Sobre nosotros 
+      name: Sobre nosotros
+      url: /acercade 
       weight: 100 
-    - identifier: contact 
+    - identifier: contacto 
       name: Contacto 
-      url: /contact 
+      url: /contacto 
       weight: 100 
     - identifier: Curriculum
       name: Curriculum
       url: /curriculum
       weight: 200 
-    - identifier: viajes
-      name: Viajes
-      url: /viajes
-      weight: 5 
     - identifier: blog
       name: Blog
       url: /blog
+      weight: 5 
+    - identifier: viajes
+      name: Viajes
+      url: /viajes
       weight: 5 
 params: 
   color: "#4f46e5"

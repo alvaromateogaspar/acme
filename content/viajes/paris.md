@@ -15,3 +15,13 @@ Durante el siglo xix junto con la ciudad de Londres, París fue el centro de des
 Conocida también como la «Ciudad de la Luz» (en francés, Ville lumière), es el destino turístico más visitado del mundo, con más de 42 millones de visitantes extranjeros por año.9​ Entre los monumentos de la ciudad figuran la Torre Eiffel, la catedral de Notre Dame, la avenida de los Campos Elíseos, el Arco de Triunfo, la basílica del Sacré Cœur, el Palacio de Los Inválidos, el Panteón, el arco de la Defensa, la ópera Garnier y el barrio de Montmartre, entre otros. También museos como el Louvre, el Museo de Orsay y el Museo Nacional de Historia Natural de Francia, así como un extenso sistema de educación superior. París ocupa un lugar importante en el ámbito de la cultura, la gastronomía, la moda y el lujo.
 
 ![paris](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/288px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg)
+
+Los trenes de cercanías están conectados con el sistema de metro, que a su vez está ligado a un denso tramado de rutas de autobuses.
+
+París se conecta con el resto de Europa gracias a una moderna red de autovías y al completo sistema ferroviario que cuenta con el TGV para conectar con los diferentes puntos de Europa con Londres, Estrasburgo y Stuttgart.
+
+La línea de TGV entre París y Lyon es una de las más transitadas de Francia. Aunque había una vía cuádruple a lo largo de una tercera parte del trayecto y una vía doble a lo largo del resto del trayecto, el ferrocarril ya no podía rendir servicio adecuado durante los períodos de mayor circulación. Después de considerar el progreso que ha habido en otras ciudades —especialmente el «tren bala» de la línea Tōkaidō, que fue un éxito— decidieron construir una vía enteramente nueva.
+
+Desde el principio se tomó la decisión de que la nueva línea de París a Lyon serviría exclusivamente para tráfico de pasajeros, y que se utilizaría equipo rodante diseñado para ir a alta velocidad. Lo más sorprendente de esta línea es que no tiene túneles.
+
+También existe una conexión de alta velocidad entre Barcelona y París34​que recorre el trayecto en poco más de seis horas.35​

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on ACME Servicios técnicos</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on ACME Servicios técnicos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>centro@cpilosenlaces.com (ACME Servicios Técnicos)</managingEditor>
+    <webMaster>centro@cpilosenlaces.com (ACME Servicios Técnicos)</webMaster>
+    <lastBuildDate>Wed, 21 Sep 2022 09:47:24 +0200</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git Hub</title>
+      <link>/blog/github/</link>
+      <pubDate>Wed, 21 Sep 2022 09:47:24 +0200</pubDate>
+      <author>centro@cpilosenlaces.com (ACME Servicios Técnicos)</author>
+      <guid>/blog/github/</guid>
+      <description>GitHub es una herramienta esencial para los ingenieros de software, y su popularidad es inigualable. Actualmente cuenta con más de 25 millones de usuarios. Se trata de un número considerable de profesionales que recurren a GitHub para mejorar el flujo de trabajo y la colaboración.
+GitHub aloja más de 100 millones de repositorios, la mayoría de los cuales son proyectos de código abierto. Esta estadística revela que GitHub se encuentra entre los clientes Git GUI más populares y es utilizado por varios profesionales y grandes empresas, como Hostinger.</description>
+    </item>
+    
+    <item>
+      <title>Informática</title>
+      <link>/blog/informatica/</link>
+      <pubDate>Wed, 21 Sep 2022 09:47:24 +0200</pubDate>
+      <author>centro@cpilosenlaces.com (ACME Servicios Técnicos)</author>
+      <guid>/blog/informatica/</guid>
+      <description>La informática,1​ también llamada computación,2​ es el área de la ciencia que se encarga de estudiar la administración de métodos, técnicas y procesos con el fin de almacenar, procesar y transmitir información y datos en formato digital. La informática abarca desde disciplinas teóricas (como algoritmos, teoría de la computación y teoría de la información) hasta disciplinas prácticas (incluido el diseño y la implementación de hardware y software).3​ La informática generalmente se considera un área de investigación académica y distinta de la programación informática.</description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>/blog/python/</link>
+      <pubDate>Wed, 21 Sep 2022 09:47:24 +0200</pubDate>
+      <author>centro@cpilosenlaces.com (ACME Servicios Técnicos)</author>
+      <guid>/blog/python/</guid>
+      <description>Python es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código, se utiliza para desarrollar aplicaciones de todo tipo, ejemplos: Instagram, Netflix, Spotify, Panda 3D, entre otros.2​ Se trata de un lenguaje de programación multiparadigma, ya que soporta parcialmente la orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma.
+Administrado por Python Software Foundation, posee una licencia de código abierto, denominada Python Software Foundation License.</description>
+    </item>
+    
+  </channel>
+</rss>

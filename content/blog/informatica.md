@@ -1,5 +1,5 @@
 ---
-title: "Python"
+title: "Informática"
 date: 2022-09-21T09:47:24+02:00
 draft: false
 ---

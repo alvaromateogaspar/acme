@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/blog/</loc>
+    <loc>/acme-prueba/blog/</loc>
     <lastmod>2022-09-21T09:47:24+02:00</lastmod>
   </url><url>
-    <loc>/blog/github/</loc>
+    <loc>/acme-prueba/blog/github/</loc>
     <lastmod>2022-09-21T09:47:24+02:00</lastmod>
   </url><url>
-    <loc>/blog/informatica/</loc>
+    <loc>/acme-prueba/blog/informatica/</loc>
     <lastmod>2022-09-21T09:47:24+02:00</lastmod>
   </url><url>
-    <loc>/viajes/paris/</loc>
+    <loc>/acme-prueba/viajes/paris/</loc>
     <lastmod>2022-09-21T09:47:24+02:00</lastmod>
   </url><url>
-    <loc>/blog/python/</loc>
+    <loc>/acme-prueba/blog/python/</loc>
     <lastmod>2022-09-21T09:47:24+02:00</lastmod>
   </url><url>
-    <loc>/acercade/</loc>
+    <loc>/acme-prueba/acercade/</loc>
     <lastmod>2022-09-21T09:47:24+02:00</lastmod>
   </url><url>
-    <loc>/viajes/</loc>
+    <loc>/acme-prueba/viajes/</loc>
     <lastmod>2022-09-21T09:47:24+02:00</lastmod>
   </url><url>
-    <loc>/viajes/roma/</loc>
+    <loc>/acme-prueba/viajes/roma/</loc>
     <lastmod>2022-09-21T09:44:02+02:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>/acme-prueba/</loc>
     <lastmod>2022-09-21T09:39:01+02:00</lastmod>
   </url><url>
-    <loc>/viajes/pirineo/</loc>
+    <loc>/acme-prueba/viajes/pirineo/</loc>
     <lastmod>2022-09-21T09:39:01+02:00</lastmod>
   </url><url>
-    <loc>/contacto/</loc>
+    <loc>/acme-prueba/contacto/</loc>
     <lastmod>2022-09-21T09:23:20+02:00</lastmod>
   </url><url>
-    <loc>/curriculum/</loc>
+    <loc>/acme-prueba/curriculum/</loc>
     <lastmod>2022-09-21T09:23:20+02:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>/acme-prueba/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>/acme-prueba/tags/</loc>
   </url>
 </urlset>

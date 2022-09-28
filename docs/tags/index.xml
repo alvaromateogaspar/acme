@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ACME Servicios técnicos</title>
-    <link>/tags/</link>
+    <link>/acme-prueba/tags/</link>
     <description>Recent content in Tags on ACME Servicios técnicos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <managingEditor>centro@cpilosenlaces.com (ACME Servicios Técnicos)</managingEditor>
-    <webMaster>centro@cpilosenlaces.com (ACME Servicios Técnicos)</webMaster><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>centro@cpilosenlaces.com (ACME Servicios Técnicos)</webMaster><atom:link href="/acme-prueba/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

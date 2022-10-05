@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="container">
+    <h1 class="titulo">{{ .Title }}</h1>
+    {{ .Content }}
+
+    <table class="table">
+        {{ range .Site.Data.datos_pelis }}
+        <tr>
+            <td><img src="{{.img }}"> </td>
+            <td>Imagen de {{.titulo}}</td>
+            <td><a href="https://www.imdb.com/{{ .url }}"> Haz click para ver la informacíon de la película</a></td>
+
+
+        </tr>
+        {{ end }}
+    </table>
+</div>
+{{ end }}

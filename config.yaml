@@ -1,7 +1,7 @@
-baseURL: "/acme-prueba"
+baseURL: "/"
 languageCode: es-es 
 title: ACME Servicios técnicos
-theme: Eclectic
+theme: basico
 author: 
   facebook: "https://es-es.facebook.com/cpilosenlaces/" 
   twitter: "https://twitter.com/cpilosenlaces" 
@@ -16,23 +16,44 @@ menu:
     - identifier: Sobre nosotros 
       name: Sobre nosotros
       url: /acercade 
+      pageRef: acercade
       weight: 100 
     - identifier: contacto 
       name: Contacto 
       url: /contacto 
+      pageRef: contacto
       weight: 100 
     - identifier: Curriculum
       name: Curriculum
       url: /curriculum
+      pageRef: curriculum
       weight: 200 
     - identifier: blog
       name: Blog
       url: /blog
       weight: 5 
+      pageRef: blog
     - identifier: viajes
       name: Viajes
       url: /viajes
       weight: 5 
+      pageRef: viajes
+    - identifier: peliculas
+      name: Peliculas
+      url: /peliculas/mas-valoradas
+      weight: 5 
+      pageRef: peliculas
+    - identifier: tv
+      name: Canales
+      url: /television/canales
+      weight: 50 
+      pageRef: tv
+    - identifier: centros
+      name: Centros educativos
+      url: /centroseducativos/centros
+      weight: 50 
+      pageRef: centros
+
 params: 
   color: "#4f46e5"
   copyright: "Copyright &copy; 2022 Acme Corporation. Todos los derechos reservados."

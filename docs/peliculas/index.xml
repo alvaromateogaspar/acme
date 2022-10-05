@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peliculas on ACME Servicios técnicos</title>
+    <link>/peliculas/</link>
+    <description>Recent content in Peliculas on ACME Servicios técnicos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>centro@cpilosenlaces.com (ACME Servicios Técnicos)</managingEditor>
+    <webMaster>centro@cpilosenlaces.com (ACME Servicios Técnicos)</webMaster>
+    <lastBuildDate>Mon, 03 Oct 2022 09:35:20 +0200</lastBuildDate><atom:link href="/peliculas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mas Valoradas</title>
+      <link>/peliculas/mas-valoradas/</link>
+      <pubDate>Mon, 03 Oct 2022 09:35:20 +0200</pubDate>
+      <author>centro@cpilosenlaces.com (ACME Servicios Técnicos)</author>
+      <guid>/peliculas/mas-valoradas/</guid>
+      <description>Películas más valoradas Información extraída de imbd.com</description>
+    </item>
+    
+  </channel>
+</rss>

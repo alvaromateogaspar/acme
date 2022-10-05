@@ -2,6 +2,8 @@
 title: "Roma"
 date: 2022-09-21T09:44:02+02:00
 draft: false
+lat: 41.9102415
+lon: 12.3959153
 ---
 
 Roma es una ciudad italiana, capital de la región del Lacio y de Italia. Con una población de 2 857 321 habitantes,3​ es el municipio más poblado de Italia y la tercera ciudad más poblada de la Unión Europea.4​ Por antonomasia, se la conoce desde la Antigüedad como la Urbe (Urbs). También es llamada «La Ciudad Eterna» (en italiano, Città Eterna).

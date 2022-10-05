@@ -2,6 +2,9 @@
 title: "Paris"
 date: 2022-09-21T09:47:24+02:00
 draft: false
+lat: 48.8589466
+lon: 2.2769956
+mensaje: "Ciudad de <strong>Paris<strong>"
 ---
 
 París (en francés, Paris pronunciado /paʁi/ ( escuchar)) es la capital de Francia y su ciudad más poblada. Capital de la región de Isla de Francia (o "Región Parisina"), constituye el único departamento unicomunal del país.

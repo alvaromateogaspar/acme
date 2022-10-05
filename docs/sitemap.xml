@@ -2,44 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/acme-prueba/blog/</loc>
+    <loc>/peliculas/mas-valoradas/</loc>
+    <lastmod>2022-10-03T09:35:20+02:00</lastmod>
+  </url><url>
+    <loc>/peliculas/</loc>
+    <lastmod>2022-10-03T09:35:20+02:00</lastmod>
+  </url><url>
+    <loc>/television/canales/</loc>
+    <lastmod>2022-09-29T13:44:39+02:00</lastmod>
+  </url><url>
+    <loc>/television/</loc>
+    <lastmod>2022-09-29T13:44:39+02:00</lastmod>
+  </url><url>
+    <loc>/blog/</loc>
     <lastmod>2022-09-21T09:47:24+02:00</lastmod>
   </url><url>
-    <loc>/acme-prueba/blog/github/</loc>
+    <loc>/centroseducativos/centros/</loc>
     <lastmod>2022-09-21T09:47:24+02:00</lastmod>
   </url><url>
-    <loc>/acme-prueba/blog/informatica/</loc>
+    <loc>/centroseducativos/</loc>
     <lastmod>2022-09-21T09:47:24+02:00</lastmod>
   </url><url>
-    <loc>/acme-prueba/viajes/paris/</loc>
+    <loc>/blog/github/</loc>
     <lastmod>2022-09-21T09:47:24+02:00</lastmod>
   </url><url>
-    <loc>/acme-prueba/blog/python/</loc>
+    <loc>/blog/informatica/</loc>
     <lastmod>2022-09-21T09:47:24+02:00</lastmod>
   </url><url>
-    <loc>/acme-prueba/acercade/</loc>
+    <loc>/viajes/paris/</loc>
     <lastmod>2022-09-21T09:47:24+02:00</lastmod>
   </url><url>
-    <loc>/acme-prueba/viajes/</loc>
+    <loc>/blog/python/</loc>
     <lastmod>2022-09-21T09:47:24+02:00</lastmod>
   </url><url>
-    <loc>/acme-prueba/viajes/roma/</loc>
+    <loc>/acercade/</loc>
+    <lastmod>2022-09-21T09:47:24+02:00</lastmod>
+  </url><url>
+    <loc>/viajes/</loc>
+    <lastmod>2022-09-21T09:47:24+02:00</lastmod>
+  </url><url>
+    <loc>/viajes/roma/</loc>
     <lastmod>2022-09-21T09:44:02+02:00</lastmod>
   </url><url>
-    <loc>/acme-prueba/</loc>
+    <loc>/</loc>
     <lastmod>2022-09-21T09:39:01+02:00</lastmod>
   </url><url>
-    <loc>/acme-prueba/viajes/pirineo/</loc>
+    <loc>/viajes/pirineo/</loc>
     <lastmod>2022-09-21T09:39:01+02:00</lastmod>
   </url><url>
-    <loc>/acme-prueba/contacto/</loc>
+    <loc>/contacto/</loc>
     <lastmod>2022-09-21T09:23:20+02:00</lastmod>
   </url><url>
-    <loc>/acme-prueba/curriculum/</loc>
+    <loc>/curriculum/</loc>
     <lastmod>2022-09-21T09:23:20+02:00</lastmod>
   </url><url>
-    <loc>/acme-prueba/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>/acme-prueba/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

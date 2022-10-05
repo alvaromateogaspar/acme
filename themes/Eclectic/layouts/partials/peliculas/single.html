@@ -1,0 +1,17 @@
+{{ define "main" }}
+<div class="container">
+    <h1 class="titulo">{{ .Title }}</h1>
+    {{ .Content }}
+
+    <ul>
+        {{ range .Site.Data.datos_pelis }}
+
+        <ul class="list-group">
+
+            <li class="list-group-item"><a><img src="{{ .img }}" alt="{{ .titulo }}"></a>
+                <a href="https://www.imbd.com/{{ .url }}">{{ .titulo }}</a></li>
+        </ul>
+        {{ end }}
+    </ul>
+</div>
+{{ end }}

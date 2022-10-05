@@ -10,4 +10,4 @@ draft: false
 
 bla bla bla bla
 
-![cpi](https://imagenes.heraldo.es/files/image_654_v1/uploads/imagenes/2022/09/24/11-miranda.jpeg)
+![cpi](https://static.masedimburgo.com/wp-content/uploads/2018/03/07151240/Donde-sacar-las-mejores-fotos-de-Edimburgo-Calton-Hill-Nelson-Monument-1500-1.jpg)

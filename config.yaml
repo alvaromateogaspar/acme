@@ -1,4 +1,4 @@
-baseURL: "/acme"
+baseURL: "/"
 languageCode: es-es 
 title: ACME Servicios técnicos
 theme: basico
@@ -50,7 +50,7 @@ menu:
       pageRef: tv
     - identifier: centros
       name: Centros educativos
-      url: /centroseducativos/centros
+      url: /centros
       weight: 50 
       pageRef: centros
 

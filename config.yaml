@@ -13,7 +13,7 @@ author:
 
 menu:
   main: 
-    - identifier: Sobre nosotros 
+    - identifier: Sobre-nosotros 
       name: Sobre nosotros
       url: /acercade 
       pageRef: acercade

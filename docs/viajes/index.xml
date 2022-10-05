@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Viajes on ACME Servicios técnicos</title>
-    <link>/viajes/</link>
+    <link>/acme/viajes/</link>
     <description>Recent content in Viajes on ACME Servicios técnicos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <managingEditor>centro@cpilosenlaces.com (ACME Servicios Técnicos)</managingEditor>
     <webMaster>centro@cpilosenlaces.com (ACME Servicios Técnicos)</webMaster>
-    <lastBuildDate>Wed, 21 Sep 2022 09:47:24 +0200</lastBuildDate><atom:link href="/viajes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Sep 2022 09:47:24 +0200</lastBuildDate><atom:link href="/acme/viajes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Paris</title>
-      <link>/viajes/paris/</link>
+      <link>/acme/viajes/paris/</link>
       <pubDate>Wed, 21 Sep 2022 09:47:24 +0200</pubDate>
       <author>centro@cpilosenlaces.com (ACME Servicios Técnicos)</author>
-      <guid>/viajes/paris/</guid>
+      <guid>/acme/viajes/paris/</guid>
       <description>París (en francés, Paris pronunciado /paʁi/ ( escuchar)) es la capital de Francia y su ciudad más poblada. Capital de la región de Isla de Francia (o &amp;ldquo;Región Parisina&amp;rdquo;), constituye el único departamento unicomunal del país.
 La ciudad de París, dentro de sus estrechos límites administrativos, tiene una población de 2 273 305 habitantes en 2015.2​ Sin embargo, en el siglo xx, el área metropolitana de París se expandió más allá de los límites del municipio de París, y es hoy en día, con una población de 12 405 426 habitantes en 2013, la segunda área metropolitana del continente europeo (después de Londres) y la 28ª del mundo.</description>
     </item>
     
     <item>
       <title>Roma</title>
-      <link>/viajes/roma/</link>
+      <link>/acme/viajes/roma/</link>
       <pubDate>Wed, 21 Sep 2022 09:44:02 +0200</pubDate>
       <author>centro@cpilosenlaces.com (ACME Servicios Técnicos)</author>
-      <guid>/viajes/roma/</guid>
+      <guid>/acme/viajes/roma/</guid>
       <description>Roma es una ciudad italiana, capital de la región del Lacio y de Italia. Con una población de 2 857 321 habitantes,3​ es el municipio más poblado de Italia y la tercera ciudad más poblada de la Unión Europea.4​ Por antonomasia, se la conoce desde la Antigüedad como la Urbe (Urbs). También es llamada «La Ciudad Eterna» (en italiano, Città Eterna).
 En el transcurso de su historia, que abarca tres milenios, llegó a extender sus dominios sobre toda la cuenca del Mediterráneo y gran parte de Europa, Oriente Próximo y África del Norte.</description>
     </item>
     
     <item>
       <title>Pirineo</title>
-      <link>/viajes/pirineo/</link>
+      <link>/acme/viajes/pirineo/</link>
       <pubDate>Wed, 21 Sep 2022 09:39:01 +0200</pubDate>
       <author>centro@cpilosenlaces.com (ACME Servicios Técnicos)</author>
-      <guid>/viajes/pirineo/</guid>
+      <guid>/acme/viajes/pirineo/</guid>
       <description>Viajes de verano Aragón
 Más de 400 son los kilómetros por los que se extienden los Pirineos entre Navarra, Aragón y Cataluña. Actuando como frontera natural entre España y el resto de Europa, esta cordillera discurre de manera horizontal al norte del país. Altas montañas – con más de 200 por encima de los 3.000 metros de altitud-, una abundante vegetación, numerosos ríos y muchos, muchos pueblos que se asientan sobre sus laderas te brindarán la posibilidad de descubrir una forma de vida única.</description>
     </item>

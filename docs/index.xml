@@ -2,124 +2,124 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ACME Corp.  on ACME Servicios técnicos</title>
-    <link>/</link>
+    <link>/acme/</link>
     <description>Recent content in ACME Corp.  on ACME Servicios técnicos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <managingEditor>centro@cpilosenlaces.com (ACME Servicios Técnicos)</managingEditor>
     <webMaster>centro@cpilosenlaces.com (ACME Servicios Técnicos)</webMaster>
-    <lastBuildDate>Wed, 21 Sep 2022 09:39:01 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Sep 2022 09:39:01 +0200</lastBuildDate><atom:link href="/acme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mas Valoradas</title>
-      <link>/peliculas/mas-valoradas/</link>
+      <link>/acme/peliculas/mas-valoradas/</link>
       <pubDate>Mon, 03 Oct 2022 09:35:20 +0200</pubDate>
       <author>centro@cpilosenlaces.com (ACME Servicios Técnicos)</author>
-      <guid>/peliculas/mas-valoradas/</guid>
+      <guid>/acme/peliculas/mas-valoradas/</guid>
       <description>Películas más valoradas Información extraída de imbd.com</description>
     </item>
     
     <item>
       <title>Canales</title>
-      <link>/television/canales/</link>
+      <link>/acme/television/canales/</link>
       <pubDate>Thu, 29 Sep 2022 13:44:39 +0200</pubDate>
       <author>centro@cpilosenlaces.com (ACME Servicios Técnicos)</author>
-      <guid>/television/canales/</guid>
+      <guid>/acme/television/canales/</guid>
       <description>Canales de televisión en internet BLA BLA BLA</description>
     </item>
     
     <item>
       <title>Centros educativos en Aragón</title>
-      <link>/centroseducativos/centros/</link>
+      <link>/acme/centros/insitutos/</link>
       <pubDate>Wed, 21 Sep 2022 09:47:24 +0200</pubDate>
       <author>centro@cpilosenlaces.com (ACME Servicios Técnicos)</author>
-      <guid>/centroseducativos/centros/</guid>
-      <description>Centros educativos en Aragón </description>
+      <guid>/acme/centros/insitutos/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Git Hub</title>
-      <link>/blog/github/</link>
+      <link>/acme/blog/github/</link>
       <pubDate>Wed, 21 Sep 2022 09:47:24 +0200</pubDate>
       <author>centro@cpilosenlaces.com (ACME Servicios Técnicos)</author>
-      <guid>/blog/github/</guid>
+      <guid>/acme/blog/github/</guid>
       <description>GitHub es una herramienta esencial para los ingenieros de software, y su popularidad es inigualable. Actualmente cuenta con más de 25 millones de usuarios. Se trata de un número considerable de profesionales que recurren a GitHub para mejorar el flujo de trabajo y la colaboración.
 GitHub aloja más de 100 millones de repositorios, la mayoría de los cuales son proyectos de código abierto. Esta estadística revela que GitHub se encuentra entre los clientes Git GUI más populares y es utilizado por varios profesionales y grandes empresas, como Hostinger.</description>
     </item>
     
     <item>
       <title>Informática</title>
-      <link>/blog/informatica/</link>
+      <link>/acme/blog/informatica/</link>
       <pubDate>Wed, 21 Sep 2022 09:47:24 +0200</pubDate>
       <author>centro@cpilosenlaces.com (ACME Servicios Técnicos)</author>
-      <guid>/blog/informatica/</guid>
+      <guid>/acme/blog/informatica/</guid>
       <description>La informática,1​ también llamada computación,2​ es el área de la ciencia que se encarga de estudiar la administración de métodos, técnicas y procesos con el fin de almacenar, procesar y transmitir información y datos en formato digital. La informática abarca desde disciplinas teóricas (como algoritmos, teoría de la computación y teoría de la información) hasta disciplinas prácticas (incluido el diseño y la implementación de hardware y software).3​ La informática generalmente se considera un área de investigación académica y distinta de la programación informática.</description>
     </item>
     
     <item>
       <title>Paris</title>
-      <link>/viajes/paris/</link>
+      <link>/acme/viajes/paris/</link>
       <pubDate>Wed, 21 Sep 2022 09:47:24 +0200</pubDate>
       <author>centro@cpilosenlaces.com (ACME Servicios Técnicos)</author>
-      <guid>/viajes/paris/</guid>
+      <guid>/acme/viajes/paris/</guid>
       <description>París (en francés, Paris pronunciado /paʁi/ ( escuchar)) es la capital de Francia y su ciudad más poblada. Capital de la región de Isla de Francia (o &amp;ldquo;Región Parisina&amp;rdquo;), constituye el único departamento unicomunal del país.
 La ciudad de París, dentro de sus estrechos límites administrativos, tiene una población de 2 273 305 habitantes en 2015.2​ Sin embargo, en el siglo xx, el área metropolitana de París se expandió más allá de los límites del municipio de París, y es hoy en día, con una población de 12 405 426 habitantes en 2013, la segunda área metropolitana del continente europeo (después de Londres) y la 28ª del mundo.</description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>/blog/python/</link>
+      <link>/acme/blog/python/</link>
       <pubDate>Wed, 21 Sep 2022 09:47:24 +0200</pubDate>
       <author>centro@cpilosenlaces.com (ACME Servicios Técnicos)</author>
-      <guid>/blog/python/</guid>
+      <guid>/acme/blog/python/</guid>
       <description>Python es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código, se utiliza para desarrollar aplicaciones de todo tipo, ejemplos: Instagram, Netflix, Spotify, Panda 3D, entre otros.2​ Se trata de un lenguaje de programación multiparadigma, ya que soporta parcialmente la orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma.
 Administrado por Python Software Foundation, posee una licencia de código abierto, denominada Python Software Foundation License.</description>
     </item>
     
     <item>
       <title>Sobre nosotros</title>
-      <link>/acercade/</link>
+      <link>/acme/acercade/</link>
       <pubDate>Wed, 21 Sep 2022 09:47:24 +0200</pubDate>
       <author>centro@cpilosenlaces.com (ACME Servicios Técnicos)</author>
-      <guid>/acercade/</guid>
+      <guid>/acme/acercade/</guid>
       <description>La Corporación Acme es una empresa ficticia que existe en el universo de los Looney Tunes. Apareció la mayor cantidad de veces en las caricaturas de El Coyote y el Correcaminos, que hicieron famosa a Acme por sus productos peligrosos y poco reales, los cuales fallaban catastróficamente de las peores maneras.
 La primera aparición de la corporación Acme fue en una caricatura de uno de los Looney Tunes del personaje Buddy, llamada Buddy&amp;rsquo;s Bug Hunt.</description>
     </item>
     
     <item>
       <title>Roma</title>
-      <link>/viajes/roma/</link>
+      <link>/acme/viajes/roma/</link>
       <pubDate>Wed, 21 Sep 2022 09:44:02 +0200</pubDate>
       <author>centro@cpilosenlaces.com (ACME Servicios Técnicos)</author>
-      <guid>/viajes/roma/</guid>
+      <guid>/acme/viajes/roma/</guid>
       <description>Roma es una ciudad italiana, capital de la región del Lacio y de Italia. Con una población de 2 857 321 habitantes,3​ es el municipio más poblado de Italia y la tercera ciudad más poblada de la Unión Europea.4​ Por antonomasia, se la conoce desde la Antigüedad como la Urbe (Urbs). También es llamada «La Ciudad Eterna» (en italiano, Città Eterna).
 En el transcurso de su historia, que abarca tres milenios, llegó a extender sus dominios sobre toda la cuenca del Mediterráneo y gran parte de Europa, Oriente Próximo y África del Norte.</description>
     </item>
     
     <item>
       <title>Pirineo</title>
-      <link>/viajes/pirineo/</link>
+      <link>/acme/viajes/pirineo/</link>
       <pubDate>Wed, 21 Sep 2022 09:39:01 +0200</pubDate>
       <author>centro@cpilosenlaces.com (ACME Servicios Técnicos)</author>
-      <guid>/viajes/pirineo/</guid>
+      <guid>/acme/viajes/pirineo/</guid>
       <description>Viajes de verano Aragón
 Más de 400 son los kilómetros por los que se extienden los Pirineos entre Navarra, Aragón y Cataluña. Actuando como frontera natural entre España y el resto de Europa, esta cordillera discurre de manera horizontal al norte del país. Altas montañas – con más de 200 por encima de los 3.000 metros de altitud-, una abundante vegetación, numerosos ríos y muchos, muchos pueblos que se asientan sobre sus laderas te brindarán la posibilidad de descubrir una forma de vida única.</description>
     </item>
     
     <item>
       <title>Contacto</title>
-      <link>/contacto/</link>
+      <link>/acme/contacto/</link>
       <pubDate>Wed, 21 Sep 2022 09:23:20 +0200</pubDate>
       <author>centro@cpilosenlaces.com (ACME Servicios Técnicos)</author>
-      <guid>/contacto/</guid>
+      <guid>/acme/contacto/</guid>
       <description>Si quieres contactar con nosotros, no dudes en enviarnos un mensaje o pasarte por nuestras oficinas</description>
     </item>
     
     <item>
       <title>Curriculum</title>
-      <link>/curriculum/</link>
+      <link>/acme/curriculum/</link>
       <pubDate>Wed, 21 Sep 2022 09:23:20 +0200</pubDate>
       <author>centro@cpilosenlaces.com (ACME Servicios Técnicos)</author>
-      <guid>/curriculum/</guid>
+      <guid>/acme/curriculum/</guid>
       <description>Mi nombre es Álvaro </description>
     </item>
     

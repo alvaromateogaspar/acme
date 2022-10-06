@@ -50,7 +50,7 @@ menu:
       pageRef: tv
     - identifier: centros
       name: Centros educativos
-      url: /centros
+      url: /centros/
       weight: 50 
       pageRef: centros
 
